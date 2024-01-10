@@ -6,4 +6,5 @@ Anita Platzi tiene 42 anhos y nacio en internet
 
 Manhana nos enfocaremos en su vida laboral
 
-Creamos una linea extra para reforzar el conocimientos de pull request
+Creamos una linea extra para reforzar el conocimientos de pull request.
+Ya lo hice yo (TeqnoRobot), no te preocupes.
